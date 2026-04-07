@@ -17,3 +17,11 @@ uvicorn main:app --reload
 cd frontend
 npm run dev
 
+#Github Commits
+git add .
+git commit -m "Initial commit - finance tracker setup"
+
+git add .
+git commit -m "describe your changes"
+git push
+
